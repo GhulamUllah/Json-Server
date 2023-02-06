@@ -1,0 +1,11 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "Ghulam",
+      "college": "Goverment College Sattelite Town",
+      "Roll": "5",
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}
